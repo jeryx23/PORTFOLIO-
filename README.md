@@ -18,8 +18,4 @@ Tools Used
 - Ensured slideshow responsiveness across screen sizes  
 - Maintained visual and layout consistency across all pages  
 - Aligned dark mode toggle cleanly with navigation items  
-
- Author
-
-**Jeryx Jenry**  
-Multimedia Technologist – Video, Design, Animation  
+ 
